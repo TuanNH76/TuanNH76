@@ -9,4 +9,4 @@
 - 😄 Pronouns: t-u-a-n
 - 🐳 Bio : コールド魚
 
-https://github-readme-stats.vercel.app/api?username=juny76
+![juny76's Github Stats](https://github-readme-stats.vercel.app/api?username=juny76)
