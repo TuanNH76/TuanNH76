@@ -7,7 +7,7 @@
 - 💬 I think I have strong will
 - 📫 How to reach me: https://www.facebook.com/junnnnn.67
 - 😄 Pronouns: t-u-a-n
-- 🐳 Bio : コールド魚
+- 🐳 Bio : "Too Fast To Live, Too Young To Die"
 
 ![juny76's Github Stats](https://github-readme-stats.vercel.app/api?username=juny76)
 
