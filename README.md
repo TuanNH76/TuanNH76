@@ -9,6 +9,6 @@
 - 😄 Pronouns: t-u-a-n
 - 🐳 Bio : "Too Fast To Live, Too Young To Die"
 
-![juny76's Github Stats](https://github-readme-stats.vercel.app/api?username=juny76)
+![juny76's Github Stats](https://github-readme-stats.vercel.app/api?username=TuanNH76)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juny76)](https://github.com/juny76/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanNH76)](https://github.com/TuanNH76/github-readme-stats)
